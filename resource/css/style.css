@@ -1,0 +1,10 @@
+/* font-family: 'Mr Dafoe', cursive; */
+
+
+
+html, body {
+    box-sizing: border-box;
+    margin:0;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
