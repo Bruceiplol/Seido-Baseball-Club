@@ -1,4 +1,4 @@
-/* font-family: 'Mr Dafoe', cursive; */
+
 
 
 
@@ -8,7 +8,7 @@ html, body {
     font-family: 'Noto Sans JP', sans-serif;
 }
 
-
+/* header */
 .nav {
     margin:0;
     padding:1rem 1rem 0.5rem 1rem;
@@ -29,6 +29,51 @@ html, body {
 
 .nav a:active {
     color:#FDF003;
+}
+
+/* main */
+
+.main {
+    background-color: #4CAF50;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    padding:10rem 0;
+}
+
+.title h1 {
+    padding: 2rem 0;
+    margin: 0;
+    text-align: center;
+    background-color: #8B5A2B;
+    font-family: 'Mr Dafoe', cursive;
+    color: #9f1705;
+    letter-spacing: 0.2rem;
+    font-size: 5rem;
+    -webkit-text-stroke: 0.0001px #FDF003;
+    text-stroke: 0.001px #FDF003;
+}
+
+.summary {
+    color:white;
+    padding: 1rem;
+}
+
+.summary h3 {
+    color:#FDF003;
+}
+
+.pic-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding:3rem;
+}
+
+.group1 {
+    width: 30%;
 }
 
 
