@@ -11,5 +11,11 @@ html, body {
 .nav {
     margin:0;
     padding:1rem;
-    background-color: #3E598E;
+    background-color: #263D8D;
+}
+
+.nav a{
+    text-decoration: none;
+    color:white;
+    padding: 0 0.5rem;
 }
