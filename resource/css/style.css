@@ -14,7 +14,7 @@ html, body {
     padding:1rem 1rem 0.5rem 1rem;
     background-color: #263D8D;
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
 .nav a{
@@ -94,8 +94,19 @@ html, body {
     padding: 2rem 0rem 4rem 0rem;
 }
 
-@media only screen and (min-width:1024px) {
+@media only screen and (max-width:380px) {
     .nav {
-        justify-content: left;
+        justify-content: center;
+        font-size: 0.8rem;
+    }
+
+    .title {
+        padding:5rem 0;
+    }
+
+    .title h1 {
+        font-size: 2rem;
+        -webkit-text-stroke: 0.01px #FDF003;
+        text-stroke: 0.01px #FDF003;
     }
 }
