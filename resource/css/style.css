@@ -8,14 +8,32 @@ html, body {
     font-family: 'Noto Sans JP', sans-serif;
 }
 
+
 .nav {
     margin:0;
-    padding:1rem;
+    padding:1rem 1rem 0.5rem 1rem;
     background-color: #263D8D;
+    display: flex;
+    justify-content: center;
 }
 
 .nav a{
     text-decoration: none;
     color:white;
-    padding: 0 0.5rem;
+    padding: 0 2rem;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+.nav a:active {
+    color:#FDF003;
+}
+
+
+@media only screen and (min-width:1024px) {
+    .nav {
+        justify-content: left;
+    }
 }
