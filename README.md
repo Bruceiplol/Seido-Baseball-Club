@@ -10,11 +10,18 @@ You can access the Seido Baseball Club website at the following URL:
 
 ## About
 
-The Seido Baseball Club website is designed to showcase our club's activities, events, results, and partnering stores. It provides a platform for baseball enthusiasts, players, and fans to stay informed and engaged with our club.
+Building based on Japanese manga, Diamond of Ace. This Seido Baseball Club website is designed to showcase the club's activities, events, results, and partnering stores. It provides a platform for baseball enthusiasts, players, and fans to stay informed and engaged with the club.
 
 ## Usage
 
-Simply visit the website URL mentioned above to explore the Seido Baseball Club site. You can navigate through the different sections using the header navigation links. Find information about upcoming events, game results, partnering stores, and more.
+Simply visit the website URL mentioned above to explore the Seido Baseball Club site. You can navigate through the different sections using the header navigation links. Find information about upcoming events, game results, partnering stores, and more. (haven't developed yet)
+
+# Technologies
+The Seido Baseball Club website project utilizes the following technologies:
+
+HTML
+CSS
+Responsive design techniques
 
 ## Contributing
 
