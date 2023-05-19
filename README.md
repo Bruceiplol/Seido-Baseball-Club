@@ -6,7 +6,7 @@ Welcome to the Seido Baseball Club GitHub Pages site!
 
 You can access the Seido Baseball Club website at the following URL:
 
-[Seido-Baseball-Club](https://bruceiplol.github.io/Seido-Baseball-Club/))
+([Seido-Baseball-Club](https://bruceiplol.github.io/Seido-Baseball-Club/))
 
 ## About
 
