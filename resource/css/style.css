@@ -127,7 +127,7 @@ html, body {
     }
 
     .title {
-        padding:5rem 0;
+        padding:4rem 0;
     }
 
     .title h1 {
@@ -145,11 +145,16 @@ html, body {
         padding:1rem;
     }
 
-    .words {
+    .words, .event h3 {
         font-size: 1.2rem;
     }
 
     .speaker {
         padding: 1rem 0rem 2rem 0rem;
     }
+
+
+
+
+
 }
