@@ -76,6 +76,23 @@ html, body {
     width: 30%;
 }
 
+.quotes {
+    background-color: #8B5A2B;
+    padding: 2rem;
+}
+
+.quotes p {
+    margin: 0; 
+    color:#FDF003;
+}
+
+.words {
+    font-size: 2rem;
+}
+
+.speaker {
+    padding: 2rem 0rem 4rem 0rem;
+}
 
 @media only screen and (min-width:1024px) {
     .nav {
