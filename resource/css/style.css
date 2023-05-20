@@ -3,6 +3,7 @@ html, body {
     margin:0;
     font-family: 'Noto Sans JP', sans-serif;
     overflow-x: hidden;
+    width:100%;
 }
 
 /* header */
@@ -118,7 +119,7 @@ html, body {
     padding:1.5rem;
 }
 
-@media only screen and (max-width:480px) {
+@media only screen and (max-width:640px) {
     .nav {
         justify-content: center;
         font-size: 0.8rem;
